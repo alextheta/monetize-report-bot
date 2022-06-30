@@ -22,3 +22,7 @@ This is a simple Telegram bot that can fetch data from ad networks and send it a
 ```
 python monetize_report_bot.py --token 1234567890:AAaAaaAaAAAaA_BbbBBbBbbbBB-CCCccCcc --ad-api DDDDddD1dd2DDd3dDD56d7ddd8ddDd --ad-uid 123456
 ```
+
+#### License
+
+Feel free to use for any purpose. Distributed under the WTFPL License.
